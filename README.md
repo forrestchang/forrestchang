@@ -1,4 +1,4 @@
-# Jiayuan Zhang
+# Jiayuan Zhang 👋
 
 🚀 **Founder & CEO @ [Devv](https://devv.ai)** | 🤖 **AI-native Builder**
 
@@ -10,8 +10,6 @@ I build tools to make developers more productive. Currently deep in the AI-nativ
 
 ## Current Projects
 
-Projects I'm currently exploring or planning to ship:
-
 - 🦀 **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Skills from the legendary Andrej Karpathy
 - ⌨️ **[roam-vim-mode](https://github.com/forrestchang/roam-vim-mode)** — Vim mode for Roam Research
 - 🖼️ **[roam-imager](https://github.com/forrestchang/roam-imager)** — Image Gallery extension for Roam Research
@@ -19,7 +17,7 @@ Projects I'm currently exploring or planning to ship:
 
 ---
 
-## 🕰️ Legacy Projects
+## Legacy Projects
 
 Things I built in the past. Some might still be useful:
 
