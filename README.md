@@ -1,4 +1,4 @@
-# Jiayuan Zhang 👋
+# Jiayuan Zhang
 
 🚀 **Founder & CEO @ [Devv](https://devv.ai)** | 🤖 **AI-native Builder**
 
@@ -8,7 +8,7 @@ I build tools to make developers more productive. Currently deep in the AI-nativ
 
 ---
 
-## 🔮 Future Projects
+## Current Projects
 
 Projects I'm currently exploring or planning to ship:
 
