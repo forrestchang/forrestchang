@@ -15,7 +15,6 @@ Projects I'm currently exploring or planning to ship:
 - 🦀 **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Skills from the legendary Andrej Karpathy
 - ⌨️ **[roam-vim-mode](https://github.com/forrestchang/roam-vim-mode)** — Vim mode for Roam Research
 - 🖼️ **[roam-imager](https://github.com/forrestchang/roam-imager)** — Image Gallery extension for Roam Research
-- 📝 **[logseq-plugin-gpt3-openai](https://github.com/forrestchang/logseq-plugin-gpt3-openai)** — GPT-3 AI assisted note taking in Logseq
 - 🎨 **[image-gallery-plugin](https://github.com/forrestchang/image-gallery-plugin)** — Image gallery plugin for Roam Research
 
 ---
@@ -44,9 +43,10 @@ Things I built in the past. Some might still be useful:
 
 **Tools & Platforms**
 <p>
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Roam%20Research-1F1F1F?style=flat-square&logo=roamresearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Logseq-85E5C2?style=flat-square&logo=logseq&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
@@ -74,7 +74,7 @@ Things I built in the past. Some might still be useful:
 ## 📫 Connect
 
 - 🐦 **Twitter/X**: [@jiayuan_jy](https://x.com/jiayuan_jy)
-- 📧 **Email**: [jiayuan@dev.ai](mailto:jiayuan@dev.ai)
+- 📧 **Email**: [jiayuan@devv.ai](mailto:jiayuan@devv.ai)
 - 🌐 **Website**: [devv.ai](https://devv.ai)
 
 ---
