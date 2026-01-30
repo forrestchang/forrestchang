@@ -53,15 +53,6 @@ Things I built in the past. Some might still be useful:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=forrestchang&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=1a1a1a&text_color=4a4a4a&icon_color=1a1a1a" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forrestchang&layout=compact&theme=default&hide_border=true&title_color=1a1a1a&text_color=4a4a4a&langs_count=8" />
-</p>
-
----
-
 ## 🌱 What I'm Doing
 
 - **Building in AI** — Shipping features at Devv to make AI coding agents actually useful
