@@ -1,19 +1,18 @@
 # Jiayuan Zhang 👋
 
-🚀 **Founder & CEO @ [Devv](https://devv.ai)** | 🤖 **AI-native Builder**
+🚀 **Founder & CEO @ [Multica](https://multica.ai)** | 🤖 **AI-native Builder**
 
-> Building the next-gen coding agent. Formerly engineering @ TikTok.
+> Your next 10 hires won't be human. Building the platform to make that happen.
 
-I build tools to make developers more productive. Currently deep in the AI-native development paradigm shift—exploring how LLMs change the way we write, read, and think about code.
+I build tools that integrate AI agents as real team members. [Multica](https://multica.ai) is an open-source platform where coding agents work alongside humans—assigned tasks, reporting progress, and shipping code just like any other colleague.
 
 ---
 
 ## Current Projects
 
+- 🧠 **[Multica](https://github.com/multica-ai/multica)** — Open-source platform for managing mixed human-agent engineering teams
 - 🦀 **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Skills from the legendary Andrej Karpathy
 - ⌨️ **[roam-vim-mode](https://github.com/forrestchang/roam-vim-mode)** — Vim mode for Roam Research
-- 🖼️ **[roam-imager](https://github.com/forrestchang/roam-imager)** — Image Gallery extension for Roam Research
-- 🎨 **[image-gallery-plugin](https://github.com/forrestchang/image-gallery-plugin)** — Image gallery plugin for Roam Research
 
 ---
 
@@ -53,7 +52,7 @@ Things I built in the past. Some might still be useful:
 
 ## 🌱 What I'm Doing
 
-- **Building in AI** — Shipping features at Devv to make AI coding agents actually useful
+- **Building Multica** — Making AI coding agents real teammates, not just tools
 - **Exploring agents** — How autonomous systems change software development
 - **Reading** — Papers on LLM reasoning, agentic workflows, and system design
 - **Writing** — Sharing learnings on AI-native development (coming soon)
@@ -63,8 +62,8 @@ Things I built in the past. Some might still be useful:
 ## 📫 Connect
 
 - 🐦 **Twitter/X**: [@jiayuan_jy](https://x.com/jiayuan_jy)
-- 📧 **Email**: [jiayuan@devv.ai](mailto:jiayuan@devv.ai)
-- 🌐 **Website**: [devv.ai](https://devv.ai)
+- 📧 **Email**: [jiayuan@multica.ai](mailto:jiayuan@multica.ai)
+- 🌐 **Website**: [multica.ai](https://multica.ai)
 
 ---
 
